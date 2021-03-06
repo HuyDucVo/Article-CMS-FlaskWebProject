@@ -23,3 +23,6 @@ Picked *Azure Webapp*
 I will go from *Azure Webapp* to *Azure VM* if I need a full control on the mhosting machine in case I want to optimize my code and service.
 Any further discussion can follow this diagram
 <img src="/Submission Images/compute-decision-tree.jpg">
+
+## Infographic
+<img src="/Submission Images/infographic.png">
